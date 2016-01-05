@@ -1,1 +1,1 @@
-# pbj-project4-gallery
+# wdi-project4-gallery
